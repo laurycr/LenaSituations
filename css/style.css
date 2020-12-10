@@ -1,0 +1,39 @@
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Jacques+Francois+Shadow&family=Oswald&display=swap');
+</style>
+@import url("components/avatar.css");
+</style>
+@import url("components/button.css");
+</style>
+@import url("components/banner.css");
+</style>
+@import url("components/card.css");
+</style>
+@import url("components/container.css");
+</style>
+
+body{
+	font-size: 25px
+	}
+	body{
+		font-family: 'Amatic SC', cursive;
+}
+
+h1{
+	font-family: 'Oswald', sans-serif;
+}
+
+h2, h3{
+	font-family:'Amatic SC', cursive;
+}
+
+h3{
+	text-align: center;
+}
+h1,h2,h3{
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+}

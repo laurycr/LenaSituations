@@ -1,0 +1,31 @@
+.btn-white{
+		background-color: #e5e6e4
+	}
+	.btn-white{
+		padding: 15px 20px;
+	}
+	.btn-white{
+		border-radius: 4px;
+	}
+	.btn-white{
+		color: black;
+	}
+	.btn-white{
+		font-weight: bold;
+}
+
+.btn-red{
+	color: #cc0000
+}
+
+.btn-pink{
+	color: #fbb1bd
+}
+
+.btn-yellow{
+	color: rgb(255,222,8)
+}
+
+.btn-flashred{
+	color: #e01e37
+}

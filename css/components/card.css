@@ -1,0 +1,50 @@
+.cards{
+	display: flex;
+	}
+	.cards{
+		flex-wrap: wrap;
+}
+
+.card{
+		flex-basis: 250px
+	}
+	.card{
+		flex-grow: 1;
+	}
+	.card{
+		margin: 4px
+	}
+	.card{
+		display:inline-flex;
+	}
+	.card{
+		align-items: center;
+	}
+	.card{
+		justify-content:space-between;
+	}
+	.card{
+		box-shadow: 0px 10px 30px rgba(0,0,0,0.1)
+	}
+	.card{
+		border-radius: 4px
+}
+
+.card h3{
+	flex-grow: 1;
+}
+
+.card img{
+	border-radius: 4px
+}
+
+.card h3{
+		padding-left:5px
+	}
+	.card h3{
+		font-size: 27px
+}
+
+
+
+

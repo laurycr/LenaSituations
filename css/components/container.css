@@ -1,0 +1,25 @@
+.container{
+	width: 700px
+	}
+	.container{
+		font-size: 30px
+	}
+	.container{
+		margin: 5px auto;
+}
+
+.typeform-widget{
+	margin-top: 80px
+}
+
+
+@media (max-width: 760px) {
+	.container{
+		width: 600px
+	}
+}
+
+@media (max-width: 500px) {
+	.container{
+		width: 400px
+	}
